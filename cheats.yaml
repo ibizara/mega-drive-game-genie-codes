@@ -2,9 +2,12 @@ games:
   - title: "Sonic Delta Origins v0.79"
     crc32: "2F8DAAD7"
     cheats:
-      - name: "No death"
+      - name: "No death on hit with no rings"
         code: "AVRT-CAA6"
       - name: "99 rings on hit"
         code: "NNCA-EAER"
-        limitations:
+        notes:
           - "Requires at least one ring before taking damage."
+      - name: "Infinite lives"
+        code: "RGCT-C6ZJ"
+        code: "RGCT-C6ZL"
