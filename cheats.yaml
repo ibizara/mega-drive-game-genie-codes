@@ -9,5 +9,10 @@ games:
         notes:
           - "Requires at least one ring before taking damage."
       - name: "Infinite lives"
-        code: "RGCT-C6ZJ"
-        code: "RGCT-C6ZL"
+        code: "WIP"
+      - name: Test multi-line codes
+        codes:
+          - "XXXX-XXXX"
+          - "XXXX-XXXX"
+        notes:
+          - "Both codes are required."
