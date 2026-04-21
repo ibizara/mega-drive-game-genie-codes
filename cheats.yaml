@@ -23,7 +23,7 @@ games:
         notes: "Sets rings to 99 on hit. Requires at least 1 ring."
 
       - name: "Rings on hit (100)"
-        code: "NTCA-EAES"
+        code: "NTCA-EAER"
         notes: "Sets rings to 100 on hit. Requires at least 1 ring."
 
       - name: "Infinite lives"
