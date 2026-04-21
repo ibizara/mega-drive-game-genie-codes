@@ -7,15 +7,15 @@ games:
         notes: "Prevents death at 0 rings. Disable for pits/crush or may loop."
 
       - name: "Rings on hit (10)"
-        code: "NNCA-EAEJ"
+        code: "BJCA-EAER"
         notes: "Sets rings to 10 on hit. Requires at least 1 ring."
 
       - name: "Rings on hit (25)"
-        code: "NNCA-EAEY"
+        code: "DECA-EAER"
         notes: "Sets rings to 25 on hit. Requires at least 1 ring."
 
       - name: "Rings on hit (50)"
-        code: "NNCA-EAEN"
+        code: "GJCA-EAER"
         notes: "Sets rings to 50 on hit. Requires at least 1 ring."
 
       - name: "Rings on hit (99)"
@@ -23,7 +23,7 @@ games:
         notes: "Sets rings to 99 on hit. Requires at least 1 ring."
 
       - name: "Rings on hit (100)"
-        code: "NNCA-EAES"
+        code: "NTCA-EAES"
         notes: "Sets rings to 100 on hit. Requires at least 1 ring."
 
       - name: "Infinite lives"
