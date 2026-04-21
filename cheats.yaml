@@ -4,15 +4,33 @@ games:
     cheats:
       - name: "No death on hit with no rings"
         code: "AVRT-CAA6"
-      - name: "99 rings on hit"
+        notes: "Prevents death at 0 rings. Disable for pits/crush or may loop."
+
+      - name: "Rings on hit (10)"
+        code: "NNCA-EAEJ"
+        notes: "Sets rings to 10 on hit. Requires at least 1 ring."
+
+      - name: "Rings on hit (25)"
+        code: "NNCA-EAEY"
+        notes: "Sets rings to 25 on hit. Requires at least 1 ring."
+
+      - name: "Rings on hit (50)"
+        code: "NNCA-EAEN"
+        notes: "Sets rings to 50 on hit. Requires at least 1 ring."
+
+      - name: "Rings on hit (99)"
         code: "NNCA-EAER"
-        notes:
-          - "Requires at least one ring before taking damage."
+        notes: "Sets rings to 99 on hit. Requires at least 1 ring."
+
+      - name: "Rings on hit (100)"
+        code: "NNCA-EAES"
+        notes: "Sets rings to 100 on hit. Requires at least 1 ring."
+
       - name: "Infinite lives"
         code: "RGCT-C6WC"
-      - name: Test multi-line codes
+
+      - name: "Test multi-line codes"
         codes:
           - "XXXX-XXXX"
           - "XXXX-XXXX"
-        notes:
-          - "Both codes are required."
+        notes: "Both required."
